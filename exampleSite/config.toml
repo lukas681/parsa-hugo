@@ -1,5 +1,5 @@
 # default config
-baseURL = "http://www.artfoxes.de"
+baseURL = "https://www.artfoxes.de"
 languageCode = "en-us"
 title = "Parsa Hugo | Personal Blog Template"
 theme = "parsa-hugo"
