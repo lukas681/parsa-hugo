@@ -1,7 +1,7 @@
 baseURL = "https://www.artfoxes.de"
 languageCode = "en-us"
 paginate = "6"
-summaryLength = "10"
+summaryLength = "1"
 theme = "parsa-hugo"
 title = "Artfoxes"
 [[menu.main]]
