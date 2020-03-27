@@ -2,7 +2,7 @@
 categories = []
 date = 2020-03-27T23:00:00Z
 description = "Hallo, das ist ein erster Eintrag auf dieser Webseite"
-image = ""
+image = "/images/download.jfif"
 tags = []
 title = "Das ist ein Test"
 type = "post"
