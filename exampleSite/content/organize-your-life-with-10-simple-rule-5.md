@@ -2,8 +2,7 @@
 categories = ["Nature"]
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-draft = true
-image = "images/featured-post/post-5.jpg"
+image = "/images/schoenheit_entspannung_natur.jpg"
 tags = ["Fashion", "Nature"]
 title = "Organize Your Life With 10 Simple rule"
 type = "featured"
