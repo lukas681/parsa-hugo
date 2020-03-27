@@ -16,7 +16,7 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "809sdlk dsfaklf dkfaskl"
-author = "Themefisher"
+author = "Lukas Retschmeier"
 author_image = "images/banner-img.png"
 bio = "We are two art fanatics from Lower Bavaria"
 contact_form_action = "#"
