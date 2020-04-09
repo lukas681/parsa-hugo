@@ -15,14 +15,14 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "809sdlk dsfaklf dkfaskl"
+address = "Munich  // Bavarian Forest"
 author = "Lukas Retschmeier"
 author_image = "images/banner-img.png"
 bio = "We are two art fanatics from Lower Bavaria"
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
-email = "verena.hey"
+email = "inquiries-artfoxes@web.de"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
