@@ -26,8 +26,8 @@ email = "inquiries-artfoxes@web.de"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "images/logoart.jpg"
-mobile = "+49 xx xxxx xx"
+logo = "images/logo.png"
+mobile = ""
 preloader = true
 search = true
 [params.instafeed]
