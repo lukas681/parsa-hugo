@@ -6,5 +6,3 @@ image: ''
 
 ---
 Hey everybody and a warm welcome to all artlovers!
-
-# ![](Image/US.jpg)
