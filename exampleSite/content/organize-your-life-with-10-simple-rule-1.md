@@ -1,10 +1,10 @@
 +++
-categories = ["Nature"]
+categories = ["PAINTING "]
 date = 2019-05-14T08:46:10Z
-description = "This is meta description"
-image = "images/featured-post/post-5.jpg"
-tags = ["Fashion", "Nature"]
-title = "Organize Your Life With 10 Simple rule"
+description = "ACRYLIC on CANVAS // 40x50 "
+image = "/images/We're in this together.jpg"
+tags = ["Fashion", "Nature", "portrait "]
+title = "WE'RE IN THIS TOGETHER "
 type = "featured"
 
 +++
