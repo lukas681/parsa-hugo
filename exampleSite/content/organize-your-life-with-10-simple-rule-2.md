@@ -1,10 +1,10 @@
 +++
-categories = ["Nature"]
+categories = ["Painting "]
 date = 2019-05-14T08:46:10Z
-description = "This is meta description"
-image = "images/featured-post/post-5.jpg"
-tags = ["Fashion", "Nature"]
-title = "Organize Your Life With 10 Simple rule"
+description = "MIXED MEDIA on CANVAS // 100x120 "
+image = "/images/Gib dem Zufall eine Chance.jpg"
+tags = ["Nature", "interiordesign ", "abstractpainting", "Painting ", "contemporaryart ", "art", "acryliconcanvas"]
+title = "GIB DEM ZUFALL EINE CHANCE "
 type = "featured"
 
 +++
