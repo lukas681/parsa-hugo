@@ -1,5 +1,5 @@
 +++
-categories = ["Nature"]
+categories = ["PAINTING "]
 date = 2019-05-14T08:46:10Z
 description = "ACRYLIC on CANVAS // 100x120"
 image = "/images/Line.jpg"
