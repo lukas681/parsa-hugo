@@ -19,21 +19,21 @@ address = "Munich  // Bavarian Forest"
 author = "Artfoxes"
 author_image = "images/banner-img.png"
 bio = "We are two art fanatics from Lower Bavaria"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/mrgajvzy"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
 email = "inquiries-artfoxes@web.de"
 google_analitycs_id = "Your ID"
 home = "Home"
-layout = "1"
+layout = "2"
 logo = "images/logoartfox.png"
 mobile = ""
 preloader = true
 search = true
 [params.instafeed]
-access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+access_token = "IGQVJYTkZA1MFJ1R1FSUmMza2pmSU1aTTFRWFQtb2F1VnI4VTdTckptSG10X0NMdUt3TWFrRGRRT1VqRHRsZAFlFLU5IeXlfdzZADWjd3c1N6TWw3cmpscVhRR3JwdG81eldTSnBsUzhSU0lobXdMWTEzNAZDZD"
 enable = true
-user_id = "4044026246"
+user_id = ""
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -62,52 +62,6 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-
-# navigation
-[[menu.main]]
-name = "About"
-URL = "about"
-weight = 2
-
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 3
-
-# deult parameter
-[params]
-logo = "images/logo.png"
-home = "Home"
-# theme layout ( two layout is available, "1" and "2" )
-layout = "1"
-# Meta data
-description = "This is meta description"
-# Preloader
-preloader = true
-# search
-search = true
-# about author
-author = "Themefisher"
-author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
-# Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
-# Contact Form Action
-contact_form_action = "#"
-# Google Analitycs
-google_analitycs_id = "Your ID"
-# copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
-
-# Instagram feed
-[params.instafeed]
-enable = true
-user_id = "220048342425212"
-access_token = "IGQVJWM3NaekRqcVROOW81bXVtbERTWTZA3bE9YUzlmdUpTeFFpaGpvcDI0eGxJSHplMllEVFlfR29MbFR2S0RFN21yRm56NzBiSzA4NmYxd0hnWnpwWFZAUN3FiNW9NNlg1TXJERlZAhX21ya3FoV1doNwZDZD"
-
-# social site
 [[params.social]]
 URL = "#"
 icon = "ti-facebook"
