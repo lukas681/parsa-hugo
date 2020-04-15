@@ -1,24 +1,45 @@
-# default config
-baseURL = "artfoxes.de"
+baseURL = "https://www.artfoxes.de"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+paginate = "6"
+summaryLength = "1"
 theme = "parsa-hugo"
-summaryLength = "10"
-paginate = 6
-
-# output
+title = "Artfoxes"
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
-
-# CSS Plugins
+[params]
+address = "Munich  // Bavarian Forest"
+author = "Artfoxes"
+author_image = "images/banner-img.png"
+bio = "We are two art fanatics from Lower Bavaria"
+contact_form_action = "#"
+copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+description = "This is meta description"
+email = "inquiries-artfoxes@web.de"
+google_analitycs_id = "Your ID"
+home = "Home"
+layout = "1"
+logo = "images/logoartfox.png"
+mobile = ""
+preloader = true
+search = true
+[params.instafeed]
+access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+enable = true
+user_id = "4044026246"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
-
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -88,17 +109,14 @@ access_token = "IGQVJWM3NaekRqcVROOW81bXVtbERTWTZA3bE9YUzlmdUpTeFFpaGpvcDI0eGxJS
 
 # social site
 [[params.social]]
+URL = "#"
 icon = "ti-facebook"
-URL = "#"
-
 [[params.social]]
+URL = "#"
 icon = "ti-twitter-alt"
-URL = "#"
-
 [[params.social]]
+URL = "#"
 icon = "ti-linkedin"
-URL = "#"
-
 [[params.social]]
-icon = "ti-github"
 URL = "#"
+icon = "ti-github"
