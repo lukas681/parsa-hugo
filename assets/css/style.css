@@ -621,7 +621,7 @@ textarea.form-control {
   left: 0;
   top: 0;
   height: 100%;
-  width: 100%;
+  width: 100% !important;
   background: rgba(0, 0, 0, 0.5);
   opacity: 0;
   visibility: hidden;
@@ -715,6 +715,7 @@ textarea.form-control {
 
 @media (max-width: 767px) {
   .article-full-width .post-image img {
+  
     height: auto;
     width: 100%;
   }

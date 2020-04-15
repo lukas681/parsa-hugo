@@ -17,7 +17,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 address = "Munich  // Bavarian Forest"
 author = "Artfoxes"
-author_image = "images/banner-img.png"
+author_image = "images/IMG_4612.jpg"
 bio = "We are two art fanatics from Lower Bavaria"
 contact_form_action = "https://formspree.io/mrgajvzy"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
