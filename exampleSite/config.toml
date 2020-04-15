@@ -83,8 +83,8 @@ copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
 # Instagram feed
 [params.instafeed]
 enable = true
-user_id = "4044026246"
-access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+user_id = "220048342425212"
+access_token = "IGQVJWM3NaekRqcVROOW81bXVtbERTWTZA3bE9YUzlmdUpTeFFpaGpvcDI0eGxJSHplMllEVFlfR29MbFR2S0RFN21yRm56NzBiSzA4NmYxd0hnWnpwWFZAUN3FiNW9NNlg1TXJERlZAhX21ya3FoV1doNwZDZD"
 
 # social site
 [[params.social]]
