@@ -16,7 +16,7 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "Munich  // Bavarian Forest"
-author = "Lukas Retschmeier"
+author = "Artfoxes"
 author_image = "images/banner-img.png"
 bio = "We are two art fanatics from Lower Bavaria"
 contact_form_action = "#"
