@@ -5,7 +5,7 @@ description = "MIXED MEDIA on CANVAS // 140x70 "
 image = "/images/Drowning.jpg"
 tags = ["Fashion", "Nature"]
 title = "DROWNING "
-type = "featured"
+type = "post"
 
 +++
 ### Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 

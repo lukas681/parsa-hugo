@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/images/schoenheit_entspannung_natur.jpg"
 tags = ["Fashion", "Nature"]
 title = "Organize Your Life With 10 Simple rule"
-type = "featured"
+type = "post"
 
 +++
 ### Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 

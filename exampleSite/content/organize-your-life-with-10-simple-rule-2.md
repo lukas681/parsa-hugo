@@ -5,7 +5,7 @@ description = "MIXED MEDIA on CANVAS // 100x120 "
 image = "/images/Gib dem Zufall eine Chance.jpg"
 tags = ["Nature", "interiordesign ", "abstractpainting", "Painting ", "contemporaryart ", "art", "acryliconcanvas"]
 title = "GIB DEM ZUFALL EINE CHANCE "
-type = "featured"
+type = "post"
 
 +++
 ### Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 

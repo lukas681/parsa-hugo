@@ -5,7 +5,7 @@ description = "ACRYLIC on CANVAS // 100x120"
 image = "/images/Line.jpg"
 tags = ["Fashion", "Nature", "contemporaryart ", "art ", "paintings ", "abstractart "]
 title = "LINE"
-type = "featured"
+type = "post"
 
 +++
 ### Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 

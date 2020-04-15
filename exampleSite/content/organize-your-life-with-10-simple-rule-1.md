@@ -5,7 +5,7 @@ description = "ACRYLIC on CANVAS // 40x50 "
 image = "/images/We're in this together.jpg"
 tags = ["Fashion", "Nature", "portrait "]
 title = "WE'RE IN THIS TOGETHER "
-type = "featured"
+type = "post"
 
 +++
 ### Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
