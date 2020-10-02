@@ -7,7 +7,7 @@ title = "Artfoxes"
 [[menu.main]]
 URL = "gallery"
 name = "Gallery"
-weight = "2"
+weight = "4"
 [[menu.main]]
 URL = "about"
 name = "About"
