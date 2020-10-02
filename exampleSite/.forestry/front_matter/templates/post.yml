@@ -28,3 +28,5 @@ fields:
   description: 'type: post or featured'
 pages:
 - exampleSite/content/desert-eyes.md
+- exampleSite/content/desert-eyes.md
+- gallery.md
