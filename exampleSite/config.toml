@@ -5,9 +5,9 @@ summaryLength = "1"
 theme = "parsa-hugo"
 title = "Artfoxes"
 [[menu.main]]
-URL = "www.artfoxes.de/gallery"
+URL = "gallery"
 name = "Gallery"
-weight = ""
+weight = "2"
 [[menu.main]]
 URL = "about"
 name = "About"
